@@ -6,6 +6,6 @@ git problems and solution
 
 （2）每次当你在不同的项目commit 时，都会要求输入 user.mail 以及 user.name,而且会在目录下生成%HOMEDRIVE%%HOMEPATH%目录
      解决方法：这个是由于git 找不到%HOMEDRIVE%%HOMEPATH%路径导致，该变量代表了c：user/用户/.gitconfig ，所以需要在git 
-     的安装目录/etc/profile 中加上HOME="$HOMEDRIVE$HOMEPATH" 即可
+     的安装目录/etc/profile 中加上HOME="$HOMEDRIVE$HOMEPATH" 即可 
 
                                                                                                   如有疑问，可至邮箱 muzhongyu@outlook.com 
