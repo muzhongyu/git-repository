@@ -1,0 +1,15 @@
+{
+    "name": "mouzy/php-repository",
+    "description": "php composer test",
+    "keywords": ["php-repository", "mouzy"],
+    "homepage": "https://github.com/muzhongyu/git-repository/new/master",
+    "license": "MIT",
+    "version":"1.0.0",
+    "authors": [
+        {
+        "name": "mouzy",
+        "email": "mouzy@123.com",
+        "homepage": "https://github.com/muzhongyu/git-repository"
+        }
+    ]
+}
