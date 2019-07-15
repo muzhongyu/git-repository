@@ -4,7 +4,6 @@
     "keywords": ["php-repository", "mouzy"],
     "homepage": "https://github.com/muzhongyu/git-repository/new/master",
     "license": "MIT",
-    "version":"1.0.0",
     "authors": [
         {
         "name": "mouzy",
